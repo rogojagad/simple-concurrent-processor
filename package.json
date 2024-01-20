@@ -1,0 +1,27 @@
+{
+  "name": "simple-concurrent-processor",
+  "version": "1.0.0",
+  "description": "a simple class to implement concurrent processing",
+  "main": "index.js",
+  "scripts": {
+    "benchmark": "node test/test-1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogojagad/simple-concurrent-processor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogojagad/simple-concurrent-processor/issues"
+  },
+  "homepage": "https://github.com/rogojagad/simple-concurrent-processor#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
